@@ -1,1 +1,77 @@
-<mxfile modified="2019-07-24T09:47:41.269Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="KiEOA1__LrG_IBO1p-o7" version="11.0.4" type="github"><diagram id="FlHjotfdvD3n4SvSYVod" name="pattern">3VdNc9MwEP01noEDjL/ipEcSJ+VAp4UcaE+MsIVtULweRWlsfj1yvLJsKy0BSp3pxaN9u1pJ70mzXstbbMpLTor0CmLKLNeOS8sLLde98AP5rYGqAQIHgYRncQM5GlhnPymCNqK7LKbbXqAAYCIr+mAEeU4j0cMI57Dvh30D1l+1IAk1gHVEmIl+zmKRNujMnWr8Pc2SVK3sBBeNZ0NUMJ5km5IY9h3IW1reggOIZrQpF5TV3ClemnmrB7ztxjjNxSkT4mCxWCWzT8XS/hF+Ke3CD6/fYJZ7wnZ44ITBV8Jwy6JSPHDY5TGtUzmWN9+nmaDrgkS1dy+Fl1gqNgzd5tbUOpQLWnYg3OolhQ0VvJIh6G1pw3vj+GjvtQqOikk7CgSIERQ+aVNrbuQA6fkDqlyDKoMkmsfv6jsnrRxyeiIpNO5dQZOSzpEnR06sME4ZEdl9/+IeowFXuIFM7qRl3Pf7jPv2gMkt7HhEcVb3ov0mUSuTSiQIT6gwEh1UaY/990J5L1yowH4ioYaJnlso/4ULNQ2eSKhhoucWKjCECufXN6PXCH9Iy+g1YnqEqLOjyZ2OTdPMoOnq4+g0Be650aT+gXs8ncG7GzI1/rtzzJ8zUhSsOnQLr16bZUUWiDWawEUKCeSELTU615za0tIxHwAKZPI7FaLCjoXsBPR5pmUmbnF6Pb6rx28naIVlxxVWysglGbc6sDbvuj497WCpeQ9q2hSYx4hTPdWhgDwWeGJlPblk/pveZt+yIpEATD3m45gM/n6D//c2pKnbx6bW6x7cW/4C</diagram><diagram id="YmgdgusNRRoSRxzjpCIP" name="rpc_grpc.xml">1VZNk5NAEP01c4zFR/jIMWZx1dKquDlojiO0MFtAU8MQiL/eITQBgsZN6dbqhZp+09NDv9fdwOxN1txLXiQfMYKUWUbUMPuOWdZq6epnCxw7wDUJiKWIOsgcgJ34DgQahFYignLiqBBTJYopGGKeQ6gmGJcS66nbN0yntxY8hhmwC3k6Rz+LSCUd6lvegL8FESf9zaa76nYy3jtTJmXCI6xHkB0weyMRVbfKmg2kLXc9L4s4/7Q3skXzuHfgYfvuq/feX3TB3txy5JyChFz93dAOpaaOPV8QafrIRKkSjDHnaTCgryVWeQRtVENbg88HxEKDpgYfQakj1QKvFGooUVlKu9AI9WW03rehXjlk3TUU+WQcyYh4mZzubA89kQ/ircRKhnDFz+r82sxHNUMs3gNmoORRO0hIuRKHaWFxqs/47Hc+ukWh388yqJUclwqJOslcGdMQissYFJ0alNSL0WsM0EnfG7SmNA88rSiFh+1mpv+gbst0nQgFu4Kf+Kv1gJgqeZsQB5AKmqsU0+6553qqeurqoYXN3icZta9r/FqVCZ+3kmfPyIv/G/as5Uuzt5yxxwKHrQPmb06LJfM9FnhstWb+cj6S8mjdfgm0Faa8LEX4b88T+4nzZCSH8xM1euwPx85lNdjehcpdPrOx89v5ZV0Geub55c6KCAslML/ShMYLNuHKntL+jCNMm8NvSEf38C9nBz8A</diagram></mxfile>
+<mxfile modified="2019-10-31T14:34:54.146Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="Du_mJaly_tUdWiF0uZmF" version="12.1.9" type="github" pages="2">
+  <diagram id="FlHjotfdvD3n4SvSYVod" name="pattern">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-1" value="global" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="220" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-2" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="sourcePoint"/>
+            <mxPoint x="440" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-3" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="400" as="sourcePoint"/>
+            <mxPoint x="600" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-4" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="400" as="sourcePoint"/>
+            <mxPoint x="760" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-6" value="DBOP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="460" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-7" value="DB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="460" y="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-8" value="MQ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="620" y="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-10" value="MQOP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="620" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-12" value="apply to()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d6CCFg8RpE0kD_x0p4DO-11" target="d6CCFg8RpE0kD_x0p4DO-1" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="d6CCFg8RpE0kD_x0p4DO-11" value="Factory" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="540" y="60" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YmgdgusNRRoSRxzjpCIP" name="rpc_grpc.xml">
+    <mxGraphModel dx="946" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="-gnQY0m-xjY5eRPIb7J8-0"/>
+        <mxCell id="-gnQY0m-xjY5eRPIb7J8-1" parent="-gnQY0m-xjY5eRPIb7J8-0"/>
+        <mxCell id="-gnQY0m-xjY5eRPIb7J8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="-gnQY0m-xjY5eRPIb7J8-1" source="-gnQY0m-xjY5eRPIb7J8-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="190" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gnQY0m-xjY5eRPIb7J8-2" value="RPC" style="rounded=1;whiteSpace=wrap;html=1;" parent="-gnQY0m-xjY5eRPIb7J8-1" vertex="1">
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gnQY0m-xjY5eRPIb7J8-3" value="gRPC" style="rounded=1;whiteSpace=wrap;html=1;" parent="-gnQY0m-xjY5eRPIb7J8-1" vertex="1">
+          <mxGeometry x="220" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-gnQY0m-xjY5eRPIb7J8-4" value="完备的" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="-gnQY0m-xjY5eRPIb7J8-1" source="-gnQY0m-xjY5eRPIb7J8-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="370" as="sourcePoint"/>
+            <mxPoint x="560" y="270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gnQY0m-xjY5eRPIb7J8-6" value="option" style="rounded=0;whiteSpace=wrap;html=1;" parent="-gnQY0m-xjY5eRPIb7J8-1" vertex="1">
+          <mxGeometry x="293" y="360" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
