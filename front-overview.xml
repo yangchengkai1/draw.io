@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-13T14:58:47.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="rQq7w3_r0JeBbVkAIVh6" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-13T16:22:14.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="d03qFRW2YncSrT1EGQVq" version="12.2.4" type="github" pages="1">
   <diagram id="B-m4A4c3OhsD1do6UOYN" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,12 @@
             <mxPoint x="510" y="100" as="sourcePoint"/>
             <mxPoint x="520" y="30" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KflmRDtmpCFUVNGqy1zn-2" value="UI = f(State)" style="text;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="KflmRDtmpCFUVNGqy1zn-3" value="S&lt;span style=&quot;font-size: 10px&quot;&gt;1&lt;/span&gt;&amp;nbsp;= Action(S&lt;font size=&quot;1&quot;&gt;2&lt;/font&gt;)" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="120" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
