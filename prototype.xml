@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-20T09:47:44.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="ghIgQySkTJOccWG1CFC7" version="12.2.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-20T10:17:45.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="jiyvM0IR1S7ZHHn3n7QY" version="12.2.7" type="github" pages="1">
   <diagram id="U6LMHY-WSXYyoAGPmG29" name="Page-1">
     <mxGraphModel dx="946" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="HQheax9e8aGEf8IpBAGH-14" value="prototype" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="HQheax9e8aGEf8IpBAGH-10" target="HQheax9e8aGEf8IpBAGH-11" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="HQheax9e8aGEf8IpBAGH-17" value="new" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="HQheax9e8aGEf8IpBAGH-10" target="HQheax9e8aGEf8IpBAGH-13" edge="1">
+        <mxCell id="HQheax9e8aGEf8IpBAGH-17" value="new()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="HQheax9e8aGEf8IpBAGH-10" target="HQheax9e8aGEf8IpBAGH-13" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="HQheax9e8aGEf8IpBAGH-10" value="Person&lt;br&gt;构造函数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -22,20 +22,14 @@
         <mxCell id="HQheax9e8aGEf8IpBAGH-15" value="constructor" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="HQheax9e8aGEf8IpBAGH-11" target="HQheax9e8aGEf8IpBAGH-10" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="8ZY_yw4UEjQGeM4uuS3v-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="HQheax9e8aGEf8IpBAGH-11" target="8ZY_yw4UEjQGeM4uuS3v-5">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="HQheax9e8aGEf8IpBAGH-11" value="Person.prototype" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="HQheax9e8aGEf8IpBAGH-11" value="prototype&lt;br&gt;object" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="520" y="280" width="130" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="HQheax9e8aGEf8IpBAGH-18" value="_proto_" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="HQheax9e8aGEf8IpBAGH-13" target="HQheax9e8aGEf8IpBAGH-11" edge="1">
+        <mxCell id="HQheax9e8aGEf8IpBAGH-18" value="__proto__" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="HQheax9e8aGEf8IpBAGH-13" target="HQheax9e8aGEf8IpBAGH-11" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="HQheax9e8aGEf8IpBAGH-13" value="p&lt;br&gt;实例对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="360" y="440" width="130" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="8ZY_yw4UEjQGeM4uuS3v-5" value="obj&lt;br&gt;原型对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="130" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
