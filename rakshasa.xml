@@ -1,1 +1,49 @@
-<mxfile host="www.draw.io" modified="2019-11-25T09:53:25.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xCWrEtXyI8YboZewou7J" version="12.2.9" type="github" pages="1"><diagram id="5voBexr5Sl35PLOXifdl" name="Page-1">7ZhBk5sgGIZ/jTPdg50giUmOSZp297DbtJmddnojSpRdBBdxTfrri4oapZlpDx1pp5cE3w8+4OFlQB24SU4fBErjex5i6niT8OTAd47nLae++i2Fcy2A+QLWSiRIqLVO2JPvWIsTreYkxFmvouScSpL2xYAzhgPZ05AQvOhXO3La7zVFETaEfYCoqX4hoYxrdeHNO/0Wkyhuegb+so4kqKmsZ5LFKOTFhQS3DtwIzmVdSk4bTEt4DZe63fsr0XZgAjP5Kw3y7NvXB/a0vo8AmMWflv5LSF2d5RXRXE94tbvT45XnBoLgOQtxmQc4cF3EROJ9ioIyWqhlV1osE6rDR86kXkfgq2fdAxYSn64OHbRAlJMwT7AUZ1VFN4ANw8ZFU/1cdEsCmjrxxXL4WkPaBVGbugOlCprVb3DzDG4f99Zj80bHBg1sjudT1es6SxHr0fNf8nJnrANOuXDgSgVFdHgDp045YtX9pFe8KcsltUkJ0j2ihNBz3UzlQklaBaFqA9eCH7jkhtxmMyJIEESv188Qy9wMC3JsB6EWTbqIkojVY6D4KNvgAQXPUWUOdzA7bzZrsw7KNx0SVYr0f8WunPFP2VUosspUZQ/AT09mlvicYvFKMjUOnU8tbZ2y342S61VqZMvtDke3++y/3a2z+y0SYaE89Y+ZfTq62eeG2R/vnom0jtxsSG5scAsD3OecSZJg69AZphsb3fKvQQdsQwfMK+wm5sJCdEPXuf7o7Mx77IN68337lFkHb+g7C+BNDXhbitUbPWfN4XsQzblr63YeHiIWYDUvm4/2v8m7YHxwvrmZXQvRGTvZAnTmnW+12ynBQnzGjv2T+NRj92Gvil18HoXbHw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-03T11:09:57.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="140Sbj9YYmKoeDGeK7jr" version="12.3.5" type="github" pages="1">
+  <diagram id="5voBexr5Sl35PLOXifdl" name="Page-1">
+    <mxGraphModel dx="946" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="usZXNnjBMg115hQ96qdl-1" value="API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-2" value="OS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-3" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Hypervisor&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="340" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-5" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Hardware&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="440" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-7" value="UIkit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-8" value="Runtime" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-9" value="Runtime" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-12" value="Chorme" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-13" value="Node.js" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-14" value="Eleltion&lt;br&gt;Runtime" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-15" value="UI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-16" value="N-UI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="usZXNnjBMg115hQ96qdl-17" value="APP UI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-160" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
