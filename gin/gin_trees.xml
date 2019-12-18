@@ -1,1 +1,92 @@
-<mxfile host="www.draw.io" modified="2019-12-13T15:29:36.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="EKrDA3rbTFfhezovap7u" version="12.4.1" type="github" pages="1"><diagram id="WlwEJP4WfBAVHd-QDn0o" name="Page-1">7VtbU6MwFP41fdQp4VJ4tLW6M7vOOKszq4/ZJkJ2UsKG1FJ//YYSChRUOqUEV18qObk0+c53LjnUkTlbJtccRsENQ5iOwBglI/NyBIBnOfIzFWwygWNYmcDnBGUioxDckReshGMlXRGE48pAwRgVJKoKFywM8UJUZJBztq4Oe2K0+q0R9HFNcLeAtC79RZAIMqkLJoX8GyZ+kH+z4XhZzxLmg9VJ4gAiti6JzPnInHHGRPa0TGaYptjluGTzrl7p3W2M41C0mZDQOPlOpz5H91c3L7dPs83UO7PV3sQmPzBG8vyqybgImM9CSOeFdMrZKkQ4XXUsW8WYH4xFUmhI4R8sxEYpE64Ek6JALKnqxQkRD6Xnx3Spc1u1LhO18raxyRuh4JuHcqM0K20W07atfF4sIBcXKRGkABG4ZCHKxVeE0t0klA9iEQ4zSak/gynF5lX0lShmK77Ab0CesxhyH4s3xpk7jkjbwmyJ5bHkPI4pFOS5ug+oWO7vxhVEkA+KCwfwIje/Z0hX6qsWAaFIHlcnY8YdMAYcRJmQhfhtviwojGOyqFDG0EMZRytlaowZAYfK7U6fmDxwmTLO3xXLO87irdIv5ADDiZKiUz756V+fhOfzUH7ifD25vWzJbECNkAXdUj2sAyLwXQS3CK9lkKpSS+0ac4GTtxVVB1ZNAGNlLSrGGY5qr4uIsZMFpWhhuSfShXlCXfxkK4H5tQQ5GqpCLHdoCjHs4zUCmjQSyoSrrRq0OerJsD11Cpo6kTHp1nM7LT13lhXrct3OidzF9fz+cBcxft9FNCusUx8OvLrLsPr0GJMGnRyDWRcYWQPDyB0gRu7AMPKGh5EJBoaRUc9d5cIBQ/cc47iGlzy5qIICKfHDNMJIBDCXghQfsoD0QnUsCUJZhMXSacLf26VStCNGQrE9jz0d2ZcpwHI5GVdj5d+6gdzwjCrkE6MGudcAea6p7iE/VYpallzBiMjPZ6My7EOkrFZup+WUddyrUXSQFTSmrFFaGRteytp7NWqQCWtenn0/Y9VanwIdVBsayVlUuQZH0E7uVJ+JoROdDM23eZIazCG3ft3VsMZI1mvxBThazXYXSx5LPZ/OaictrRbYWq12iNfuPYOybatmUL1el4D1ZU/a7clra0963yMOsPywX8bSb0/e171Htz0Bs609ac0qzc947znA4X8Uoh3BHzX1Ni0clupHe0nCxN2r3GXEVrP2WLjbxhE+7JSvnId83dkvZjuuU4smPb/8H9dA+QonfVu53TacuFrDCfgKJx88nBx7XW4XTjyj53DSwe9l/otw4hqu5nACmkoi3b+pQ0sSDv81ne22iPa9vqYDTT+C6Fw9lPkfUT2N1tORemSz+PF+5veK/4Aw5/8A</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-18T15:58:45.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="XW4_EzvgfnNlXsbkrbr4" version="12.4.3" type="github" pages="1">
+  <diagram id="WlwEJP4WfBAVHd-QDn0o" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamond;startFill=0;endArrow=open;endFill=0;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-1" target="xlsxKlBgrdTFMzPfCyB9-3" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-10" value="children" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-1" target="xlsxKlBgrdTFMzPfCyB9-6" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;gin.Engine&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="160" width="160" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;gin.RouterGroup&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="160" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-15" value="&lt;font style=&quot;font-size: 12px&quot;&gt;node&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-6" target="xlsxKlBgrdTFMzPfCyB9-14" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;GET&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="200" y="290" width="40" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="290" width="40" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="290" width="40" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="290" width="40" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-11" value="methodTrees" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="191" y="271" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;/api/v1&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="422" width="100" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;path&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-14" target="xlsxKlBgrdTFMzPfCyB9-13" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;children&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-14" target="xlsxKlBgrdTFMzPfCyB9-17" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-14" value="&lt;font style=&quot;font-size: 16px&quot;&gt;gin.node&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="422" width="160" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-17" target="xlsxKlBgrdTFMzPfCyB9-25" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="554" width="40" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-19" target="xlsxKlBgrdTFMzPfCyB9-23" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="554" width="40" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-23" target="xlsxKlBgrdTFMzPfCyB9-27" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-31" value="&lt;font style=&quot;font-size: 12px&quot;&gt;children&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="790" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-23" value="&lt;font style=&quot;font-size: 16px&quot;&gt;gin.node&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="686" width="160" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-25" target="xlsxKlBgrdTFMzPfCyB9-28" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-32" value="&lt;font style=&quot;font-size: 12px&quot;&gt;children&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" parent="1" source="xlsxKlBgrdTFMzPfCyB9-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="920" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-25" value="&lt;font style=&quot;font-size: 16px&quot;&gt;gin.node&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="818" width="160" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-27" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;/admin&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="686" width="100" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="xlsxKlBgrdTFMzPfCyB9-28" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&quot;/login&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="818" width="100" height="48" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
